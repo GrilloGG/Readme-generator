@@ -72,6 +72,7 @@ ${data.projectDescription}
 ## Installation
 To install necessary dependencies, run the following command: ${data.installDependencies}
 
+
 ## Usage
 ${data.usageProject}
 
