@@ -23,7 +23,7 @@ npm i inquirer
 You will be able to answer a few questions to create your Readme.</br>
 In this gif you are able to see how to use the app
 ![Readme generator walkthrough](./img/readme-generator-walkthrough.gif)
-
+https://youtu.be/OJ_29h0Nn4g
 
 ## Questions
 If you have any questions you can find me in: </br>
